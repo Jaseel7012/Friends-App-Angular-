@@ -30,7 +30,7 @@ const myroute:Routes=[
   imports: [
     BrowserModule,
     AppRoutingModule,
-    RouterModule.forRoot(myroute)
+     RouterModule.forRoot(myroute)
   ],
   providers: [],
   bootstrap: [AppComponent]
